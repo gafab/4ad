@@ -1,0 +1,23 @@
+  {
+    "attributes": [
+      {
+        "trait_type": "Owner",
+        "value": "Ceci"
+      },
+      {
+        "trait_type": "Favorite Food",
+        "value": "Meat"
+      },
+      {
+        "trait_type": "Mood",
+        "value": "Quiet and Playful"
+      },
+      {
+        "trait_type": "Flow mode ON",
+        "value": "When other dogs are close"
+      }
+    ],
+    "description": "ThinkUp Pets Collection (PetsUp - 2022)",
+    "image": "https://github.com/gafab/4ad/blob/main/1.png?raw=true",
+    "name": "Garbanzo #1"
+  }

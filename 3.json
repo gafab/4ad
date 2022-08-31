@@ -1,0 +1,23 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Owner",
+      "value": "Viry"
+    },
+    {
+      "trait_type": "Favorite Food",
+      "value": "Meat"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "Always Active"
+    },
+    {
+      "trait_type": "Flow mode ON",
+      "value": "Go outside and walking around"
+    }
+  ],
+  "description": "ThinkUp Pets Collection (PetsUp - 2022)",
+  "image": "https://github.com/gafab/4ad/blob/main/3.png?raw=true",
+  "name": "Mora & Otto #3"
+}

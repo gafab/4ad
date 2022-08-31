@@ -1,0 +1,23 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Owner",
+      "value": "Patri"
+    },
+    {
+      "trait_type": "Favorite Food",
+      "value": "Bananas"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Flow mode ON",
+      "value": "When dad plays his loud guitar"
+    }
+  ],
+  "description": "ThinkUp Pets Collection (PetsUp - 2022)",
+  "image": "https://github.com/gafab/4ad/blob/main/2.png?raw=true",
+  "name": "Sócrates #2"
+}
